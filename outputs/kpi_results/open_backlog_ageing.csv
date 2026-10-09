@@ -1,0 +1,29 @@
+ticket_id,opened_at,request_type,priority,state,assigned_to,age_hours,sla_status
+RITM1009904,2026-09-28 10:45,Extend,P3,Work in Progress,Analyst L,55.3,Breached
+RITM1009913,2026-09-28 17:35,Modify,P4,Pending Requester,Analyst J,48.4,Breached
+RITM1009930,2026-09-29 08:29,Extend,P3,Work in Progress,Analyst E,33.5,Breached
+RITM1009914,2026-09-29 17:21,Modify,P4,Open,Analyst H,24.6,Within SLA
+RITM1009934,2026-09-29 17:36,Create,P3,Open,Analyst B,24.4,Breached
+RITM1009931,2026-09-29 18:10,Create,P4,Work in Progress,Analyst A,23.8,Within SLA
+RITM1009950,2026-09-30 09:08,Create,P3,Work in Progress,Analyst K,8.9,Within SLA
+RITM1009954,2026-09-30 09:23,Deactivate,P4,Work in Progress,Analyst C,8.6,Within SLA
+RITM1009963,2026-09-30 09:43,Extend,P3,Work in Progress,Analyst F,8.3,Within SLA
+RITM1009955,2026-09-30 11:56,Modify,P3,Open,Analyst I,6.1,Within SLA
+RITM1009953,2026-09-30 12:00,Create,P3,Work in Progress,Analyst C,6.0,Within SLA
+RITM1009958,2026-09-30 12:14,Deactivate,P4,Work in Progress,Analyst K,5.8,Within SLA
+RITM1009945,2026-09-30 12:24,Modify,P3,Open,Analyst A,5.6,Within SLA
+RITM1009948,2026-09-30 12:21,Modify,P3,Work in Progress,Analyst L,5.6,Within SLA
+RITM1009959,2026-09-30 13:38,Deactivate,P3,Open,Analyst A,4.4,Within SLA
+RITM1009972,2026-09-30 14:31,Create,P3,Pending Requester,Analyst I,3.5,Within SLA
+RITM1009964,2026-09-30 14:35,Create,P3,Pending Requester,Analyst B,3.4,Within SLA
+RITM1009946,2026-09-30 14:40,Create,P3,Open,Analyst H,3.3,Within SLA
+RITM1009952,2026-09-30 14:40,Create,P4,Pending Requester,Analyst J,3.3,Within SLA
+RITM1009957,2026-09-30 14:55,Extend,P3,Work in Progress,Analyst D,3.1,Within SLA
+RITM1009951,2026-09-30 15:00,Deactivate,P3,Pending Requester,Analyst H,3.0,Within SLA
+RITM1009956,2026-09-30 15:03,Extend,P3,Open,Analyst F,3.0,Within SLA
+RITM1009961,2026-09-30 15:13,Modify,P3,Pending Requester,Analyst J,2.8,Within SLA
+RITM1009949,2026-09-30 15:20,Deactivate,P2,Pending Requester,Analyst H,2.7,Within SLA
+RITM1009960,2026-09-30 16:07,Modify,P3,Pending Requester,Analyst A,1.9,Within SLA
+RITM1009971,2026-09-30 16:52,Deactivate,P3,Work in Progress,Analyst G,1.1,Within SLA
+RITM1009966,2026-09-30 17:33,Modify,P2,Work in Progress,Analyst A,0.4,Within SLA
+RITM1009967,2026-09-30 17:46,Create,P4,Work in Progress,Analyst K,0.2,Within SLA

@@ -1,0 +1,6 @@
+rejection_reason,rejections,cumulative_pct
+Missing supporting documents,290,35.4
+Duplicate request / record exists,173,56.5
+Invalid bank details,126,71.9
+Incorrect tax ID (GSTIN/VAT),122,86.8
+Approval missing,108,100.0

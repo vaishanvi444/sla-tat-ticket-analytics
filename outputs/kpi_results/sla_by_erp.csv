@@ -1,0 +1,6 @@
+erp_system,tickets,avg_tat_pct_of_sla,sla_compliance_pct
+ADAGE,1020,67.8,81.77
+AS400,1817,67.7,82.02
+JDE,2488,55.0,88.77
+Sage 500,1223,57.2,88.88
+Oracle,3424,51.3,91.17

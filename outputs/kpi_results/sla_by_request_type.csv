@@ -1,0 +1,7 @@
+request_type,tickets,avg_tat_hours,sla_compliance_pct
+Bank Details Change,780,23.64,70.13
+Create,3429,17.6,82.31
+Modify,2777,13.98,91.08
+Extend,1208,12.63,93.77
+Deactivate,1017,10.87,95.65
+Block/Unblock,761,9.39,96.98

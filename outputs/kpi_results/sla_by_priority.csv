@@ -1,0 +1,5 @@
+priority,sla_target_hours,tickets,avg_tat_hours,sla_compliance_pct
+P1,4,339,2.11,89.68
+P2,8,1491,4.67,88.11
+P3,24,5929,13.82,87.58
+P4,48,2213,27.81,87.26
